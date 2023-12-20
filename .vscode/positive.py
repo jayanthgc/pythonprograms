@@ -5,4 +5,4 @@ if a>=0 :
     print(a+a)
 if a<=0 :
     print('its negative')
-    print(-a*-a)
+    print(a*a)
