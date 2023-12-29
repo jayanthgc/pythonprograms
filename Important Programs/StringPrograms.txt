@@ -1,0 +1,61 @@
+		                                    String Programs:-
+					           ---*-----*-----*---	
+
+
+1.Reverse Each Word in a String
+  java is oop lan--->avaj si poo nal
+2.swap two strings without using third String
+3.check the given String is Anagram or Not
+4.Write a program to print next vowel 
+5.apple--->aelpp
+6.what is  String?
+7.why String is Immutable?
+8.what is String Builder and String Reader?
+9.What is SCP(String Constant Pool)?
+10.What is Array,Advantages,DisAdvantages?
+11.Convert LowerCase to Uppercase without using toUpperCase() method?
+12.Each Word First Letter Should be Capitalu
+   java is an oop lan--->Java Is An Oop Lan
+13.Balanced String
+14.Reverse Number In String?
+15.Permutations
+
+---------------------------------------------------------------------------------------
+
+1.Reverse a String
+2.Given String is Pallindrome or Not
+3.Print Highest Possibility of Pallindrome and Lowest Possibility of Pallindrome?
+4.count number of vowels
+5.Remove Duplicate Character
+6.Count number of Character
+7.Count Occurance of Each Character?
+8.Remove Duplicate Words in a String?
+9.[1,2,1]--->[1,2,1,1,2,1]
+10.[1,2,1]--->[1,3,4]
+11.Goodmor8ing--->Yes
+   Goodmorning--->No
+   -->if it is any Digit in string my Output is 'Yes' otherwise 'No'
+12.yybbYYYY--->Y=4
+   maximum Character in a String
+14."aabbbccccc"
+    a=2,b=3,c=5
+15.2^2=4[True]
+   2^2=5[False]
+16.Write a Program Swap Two String without using third Variable?
+17.Print Mostly Repeated Word In a String
+   java is easy java is Simpe
+18.Add Two Numbers Without Using Arithmetic Operator?
+19.Reverse Each Word In a String?
+   java is oop lan--->avaj si poo nal
+20.Print Consonants In a String?
+21.Replace a String Without Replace Method?
+22.Check Given String is Anagram Or Not?
+23.Check Given String is Panagram Or Not?
+24.Write a Program to Eliminate The Consecutive Character In a Given String?
+25.10:00AM--->11:00AM
+26.Write a Program to Print Next Vowel?
+27.Alphabetical Order
+   apple--->aelpp
+28.Count all the Character in a String without Using any Inbuilt Method?
+29.Program to Remove Spaces In a String?
+30.Every Word First Letter Should be Capital?

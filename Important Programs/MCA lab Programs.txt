@@ -1,0 +1,25 @@
+                                                      MCA LAB PROGRAMS
+                                                     ------------------
+
+1.Design and Develop a concept of data types,variables and operators?  
+2.Design and Develop a Control Structures?
+3.Design and Develop a Oops Concept Methods?
+4.Design and Develop a Overloading Method Concepts?
+5.Design and Develop Abstract classes,Nested class and innerclass?
+6.Design and Develop inheritance Concept Methods?
+7.Design and Develop using super,final and this keywords?
+8.Design and Develop Packages and interfaces?
+9.Design and Develop Wrapper Classes,Number Class,Character class,Vector,Stack?
+10.Design and Develop a program for Thread Models?
+11.Design and Develop a program String Handling functions?
+12.Design and Develop of all types of Exception Handling functions?
+13.Design and Develop a program using applet to display a message in the applet?
+14.Design and Develop a program using applet for configuring applets by using parameters?
+15.Design and Develop a program to demonstrate keyboard event?
+16.Design and Develop a Calculator Program?
+17.Design and Develop the display the IP adress?
+18.Design and Develop a program to demonstrate mouse events?
+19.Design and Develop a program for using Graphics class to display basic shapes and fill them,draw different items using basic Shapes
+   set background and for ground colours?
+20.JDBC connected SQL?
+21.JDBC connected mySql?

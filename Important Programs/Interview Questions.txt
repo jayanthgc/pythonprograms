@@ -1,0 +1,62 @@
+                                                             JAVA INTERVIEW QUESTIONS
+                                                          -----------------------------
+1.System.out.println(null);
+  What is The Output?
+2.Difference Between Collection and Collections?
+3.What is The return type of clone and split?
+4.What is Interface?
+5.What is Polymorphism?
+6.Difference Between Hashset and LinkedHashset?
+7.Difference Between ArrayList and Set?
+8.Difference Between Contructor and Non-Static Block and When We use or prefer non static blocks And Constructors?
+9.Where we use Static and Non-static Blocks?
+10.Where we use Aggregation and Composition?
+11.What is Recursion?
+12.Parameters of Comparator Methods And Comparable Methods?
+13.What is Stack?Where we use Actually?
+14.Methods In Stack?
+15.What is callbyValue and CallbyReference?
+16.When to use Abstract class and Interface?
+17.What is Private Constructor?
+18.When to use Statement Interface and PreparedStatement Interface?
+19.What are The Cursors available in Collections?
+20.Object s = "Hi";
+   System.out.println(s);
+   What is The Output?
+21.What is Method Overriding?
+22.Object Class Methods?
+23.What is Abstract Class?
+24.Why we have Override equals() method?
+25.When we have to Used Keyword synchronized?
+26.When to use synchronized method,when to use synchronized block?
+27.What is Exception Propagation?
+28.What is The use of Marker Interface and Functional Interface?
+29.What are The types of Marker Interface?
+30.Serializable available in which package?
+31.What is the Difference Between throw and throws Keywords?
+32.What is clone and Clonable?
+33.What is The Default Implementation of Arrays.sort() sort() method,and Arrays is Available in Which Interface?
+34.What is Functional Inteface?
+35.When we have to use Comparable and Comparator?
+36.compareTo and compare is abstarct methods or not?
+37.Difference Between String Builder and String Buffer?
+38.Return type of wait()?
+39.what is the argument of append() method?
+40.Exception Propagation is Checked or Un-Checked Exception?
+41.Realtime Example of Polymorphism?
+42.Why we can Pick and search elements Randomly in Arraylist?
+   Ans..it implements RandomAccess.
+43.What is The use of Hashing?
+44.Why we have to Use Recursion?
+   Ans..to reduce the time and Complexity of Code.
+45.When we use Arraylist and When we use LinkedList?
+46.When to use Copy Constructor and When to use clone()?
+47.this() and super()?
+48.ClassCast
+   clone
+   NumberFormat
+   SqlEXception
+   TypeMismatch Exception
+   FileNotFound these all are Checked or Un-checked Exception? 
+49.What is Deadlock?
+50.When we use sleep() and resume() and wait()?

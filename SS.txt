@@ -1,0 +1,116 @@
+1 Online / Offline content
+1. The online content of Spoken Tutorials can be
+accessed from :
+http://spoken-tutorial.org/tutorial-search/
+2. You can also download the Spoken Tutorials
+for offline learning from :
+http://spoken-tutorial.org/cdcontent/
+3. From this link download the FOSS categories
+in the language you wish to learn.
+4. The Spoken Tutorial content will be downloaded as a zip file on your machine.
+5. Extract the contents of the zip file & access
+them.
+2 The procedure to practise
+1. You have been given a set of spoken tutorials
+and files.
+2. You will typically do one tutorial at a time.
+3. You may listen to a spoken tutorial and reproduce all the commands shown in the video.
+4. If you find it difficult to do the above, you may
+consider listening to the whole tutorial once
+and then practise during the second hearing.
+3 Java
+1. Click on "Select FOSS" or "All FOSS
+Categories" drop-down and choose "Java".
+2. Click on "Select Language" or "All
+Languages" drop-down and choose the language (English, Hindi, Marathi ...) in which
+you wish to learn.
+3. Click on "Submit" button.
+4. You will see a list of tutorials based on your
+selection.
+5. Start with the first tutorial in the displayed
+list.
+4 First tutorial: Getting started
+with Java Installation
+1. Locate the topic "Getting started with
+Java Installation" and click on it.
+2. To view the tutorial, click on the Play icon
+which is located in the player.
+3. The Pre-requisite will be visible below the
+player (only for Online contents).
+4. Outline, Assignments, Code Files and
+Slides are available below the player.
+5. Adjust the size of the browser in such a way
+that you are able to practice in parallel.
+6. At 2:56 mins, pause the video.
+4.1 Open Terminal on Linux OS
+(a) The video says that you need to use the
+"Terminal" and "gedit text editor"
+in Linux OS.
+(b) The tutorials are explained on the Linux
+OS.
+(c) It will be easy for Linux users to follow
+as instructed in the tutorial.
+4.2 Open Command Prompt on
+Windows OS
+(a) On Windows, one has to use "Command
+prompt" and "Notepad++ text editor"
+instead of "Terminal" and "gedit text
+editor".
+(b) To open the ”Command Prompt” on
+Windows, press the "Windows" key and
+"R" key simultaneously on your keyboard.
+It will open the "Run" prompt.
+(c) At the prompt, type "cmd" and click on
+"Ok".
+(d) This will open the "Command" prompt.
+(e) Notepad++ can be opened from
+Start >> Applications >> Notepad++.
+7. Play-pause-practise the whole tutorial.
+8. Once the tutorial is complete, choose the next
+tutorial from the playlist which is located on
+the right side or below the player
+9. Follow all the above instructions, till you complete the first 2 tutorials.
+10. Third tutorial, Installing Eclipse will
+teach how to install Eclipse on Linux.
+11. For Eclipse - Windows Installation procedure, refer the Java - Installation
+Sheet.
+5 Fourth tutorial : Getting
+started Eclipse
+1. From here onwards, the remaining tutorials are
+explained using the Eclipse IDE.
+2. The commands shown, will work on both
+Linux OS and Windows OS.
+3. Follow all the instructions given in the individual tutorials and reproduce all the commands
+as shown.
+5.1 Instructions to practise
+(a) Create a folder on the "Desktop" with
+your "Name-RollNo-Component". (Eg.
+"prathamesh-04-java").
+(b) Give a unique name to the files you save,
+so as to recognize it next time. (Eg.
+"Practice-1-java").
+(c) Remember to save all your work in your
+folder.
+(d) This will ensure that your files don’t get
+over-written by someone else.
+(e) Save your work from time to time, instead
+of saving it at the end of the task.
+5.2 Common instructions for
+Assignments
+(a) Attempt the Assignments as instructed
+in the tutorial.
+(b) Save your work in your folder.
+5.3 Common instructions to use
+Code files
+(a) Click on the link "Code files" located
+below the player and save it in your folder.
+(b) Extract the downloaded zip file.
+(c) You will see all the code/source files used
+in the particular tutorial.
+(d) Use these files as per the instructions
+given in the particular tutorial.
+4. Play-pause-practise the whole tutorial.
+5. Once the tutorial is complete, choose the next
+tutorial from the playlist which is located on
+the right side or below the player.
+6. Follow all the above instructions, till you complete all the tutorials in the series.

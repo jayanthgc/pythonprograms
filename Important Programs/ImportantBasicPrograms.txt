@@ -1,0 +1,23 @@
+                                             Important Basic Programs in JAVA:-
+                                            ------*------*-------*------*-------
+1.PrimeNumber
+2.Factorial Number 
+3.fibonacci 
+4.perfect number
+5.Reverse a NUmber
+6.Armstrong Number 
+7.LeapYear
+8.Swap Two Numbers without using third variable
+9.Swap two Numbers By using third variable
+10.check the given number is pallindrome or not
+11.LCM of Two Numbers
+12.HCF of Two Numbers
+13.Decimmal To Binary
+14.Binary To Deciamal
+15.Strong Number
+16.Neon Number
+17.Niven Number
+18.Even Or Odd
+19.Program to Print next Pallindrome
+
+**All Programs Range also Important
